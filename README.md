@@ -1,7 +1,4 @@
-- [Mail](...) : _contact way_
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cxx-mlr&theme=dark&count_private=true&show_icons=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cxx-mlr&theme=dark&hide=Shell,Procfile)](https://github.com/anuraghazra/github-readme-stats)
 
 ## ⚡ Technologies
 
@@ -14,3 +11,11 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
+
+<p align='center'>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Cxx-mlr&bg_color=071A2C&icon_color=4194FD&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&line_height=27&text_color=FFFFFF" alt="Cxx-mlr's github stats"/>
+
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cxx-mlr&&hide=Shell,Procfile&bg_color=071A2C&text_color=FFFFFF" alt="Cxx-mlr's top langs"/>
+</p>
+
+- [Mail](...) : _contact way_
