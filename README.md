@@ -4,7 +4,7 @@
 
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white)
-![C++/JNI](https://img.shields.io/badge/C%2B%2B-JNI-orange?labelColor=..&style=flat-square)
+![C++/JNI](https://img.shields.io/badge/C%2B%2B-JNI-orange?style=flat-square)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/Typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
@@ -22,6 +22,8 @@
 ![CSV](https://img.shields.io/badge/-CSV-%230072aa?style=flat-square)
 ![XML](https://img.shields.io/badge/-XML-3BB7DF?style=flat-square)
 ![Pydantic](https://img.shields.io/badge/-Pydantic-%23e92063?style=flat-square)
+![Mitmproxy](https://img.shields.io/badge/-Mitmproxy-807D7D?style=flat-square)
+![Mitmdump](https://img.shields.io/badge/-Mitmdump-807D7D?style=flat-square)
 
 <p align='center'>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Cxx-mlr&bg_color=071A2C&icon_color=4194FD&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&line_height=27&text_color=FFFFFF" alt="Cxx-mlr's github stats"/>
