@@ -17,6 +17,10 @@
 
 ![SqlAlchemy](https://img.shields.io/badge/%20SQL-Alchemy-E22C2C?style=flat-square&?labelColor=000000)
 ![Alembic](https://img.shields.io/badge/-Alembic-%236ba81e?style=flat-square)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat-square&logo=nginx&logoColor=white)
+![Celery](https://img.shields.io/badge/-Celery-%239DCE5C?style=flat-square)
 ![YAML](https://img.shields.io/badge/-YAML-red?style=flat-square)
 ![TOML](https://img.shields.io/badge/-TOML-454545?style=flat-square)
 ![CSV](https://img.shields.io/badge/-CSV-%230072aa?style=flat-square)
@@ -24,7 +28,7 @@
 ![Pydantic](https://img.shields.io/badge/-Pydantic-%23e92063?style=flat-square)
 ![Mitmproxy](https://img.shields.io/badge/-Mitmproxy-807D7D?style=flat-square)
 ![Mitmdump](https://img.shields.io/badge/-Mitmdump-807D7D?style=flat-square)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
+![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
 
 <p align='center'>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Cxx-mlr&bg_color=071A2C&icon_color=4194FD&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&line_height=27&text_color=FFFFFF" alt="Cxx-mlr's github stats"/>
