@@ -35,4 +35,4 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cxx-mlr&&hide=Shell,Procfile&bg_color=071A2C&text_color=FFFFFF" alt="Cxx-mlr's top langs"/>
 </p>
 
-- [Mail](mailto:...) : _contact way_
+- [Mail](mailto:spapiernik12@gmail.com) : _contact way_
