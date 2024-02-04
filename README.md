@@ -28,6 +28,9 @@
 ![Mitmproxy](https://img.shields.io/badge/-Mitmproxy-807D7D?style=flat-square)
 ![Mitmdump](https://img.shields.io/badge/-Mitmdump-807D7D?style=flat-square)
 ![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/Rabbitmq-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=flat-square&logo=redis&logoColor=white)
+![Kali](https://img.shields.io/badge/Kali-268BEE?style=flat-square&logo=kalilinux&logoColor=white)
 
 <p align='center'>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Cxx-mlr&bg_color=071A2C&icon_color=4194FD&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&line_height=27&text_color=FFFFFF" alt="Cxx-mlr's github stats"/>
