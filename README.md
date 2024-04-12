@@ -43,7 +43,7 @@
 <p align='center'>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Cxx-mlr&bg_color=071A2C&icon_color=4194FD&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&line_height=27&text_color=FFFFFF" alt="Cxx-mlr's github stats"/>
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cxx-mlr&&hide=Shell,Procfile&bg_color=071A2C&text_color=FFFFFF" alt="Cxx-mlr's top langs"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cxx-mlr&&hide=Shell,Procfile&bg_color=071A2C&text_color=FFFFFF&layout=compact" alt="Cxx-mlr's top langs"/>
 </p>
 
 - [Mail](mailto:spapiernik12@gmail.com) : _contact way_
