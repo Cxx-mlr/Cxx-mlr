@@ -2,9 +2,10 @@
 
 ###### ⚡ Technologies
 
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
-![C++/JNI](https://img.shields.io/badge/C%2B%2B-JNI-orange?style=flat-square)
+<!---![C++/JNI](https://img.shields.io/badge/C%2B%2B-JNI-orange?style=flat-square)--->
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/Typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
