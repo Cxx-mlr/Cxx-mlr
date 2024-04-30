@@ -35,7 +35,9 @@
 ![NumPy](https://img.shields.io/badge/-NumPy-%23013243?style=flat-square&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-%23150458?style=flat-square&logo=pandas&logoColor=white)
 ![SymPy](https://img.shields.io/badge/-SymPy-%230D72B1?style=flat-square&logo=sympy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-%2300768F?style=flat-square&logo=matplotlib&logoColor=white)
+![Plotly Express](https://img.shields.io/badge/-Plotly%20Express-%23FF1493?style=flat-square&logo=plotly&logoColor=white)
+
+
 
 ###### 📝 TODO
 
