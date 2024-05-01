@@ -22,7 +22,7 @@
 ![YAML](https://img.shields.io/badge/-YAML-red?style=flat-square)
 ![TOML](https://img.shields.io/badge/-TOML-454545?style=flat-square)
 ![CSV](https://img.shields.io/badge/-CSV-%230072aa?style=flat-square)
-![XML](https://img.shields.io/badge/-XML-3BB7DF?style=flat-square)
+<!--![XML](https://img.shields.io/badge/-XML-3BB7DF?style=flat-square)-->
 ![Pydantic](https://img.shields.io/badge/-Pydantic-%23e92063?style=flat-square)
 ![Mitmproxy](https://img.shields.io/badge/-Mitmproxy-807D7D?style=flat-square)
 ![Mitmdump](https://img.shields.io/badge/-Mitmdump-807D7D?style=flat-square)
@@ -41,7 +41,7 @@
 
 ###### 📝 TODO
 
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat-square&logo=nginx&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-%23009639.svg?style=flat-square&logo=nginx&logoColor=white)
 <!--![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/Rabbitmq-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)-->
 
