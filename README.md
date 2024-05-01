@@ -1,8 +1,8 @@
 ###### ⚡ Technologies
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![Docker](https://img.shields.io/badge/docker-%23426F90.svg?style=flat-square&logo=docker&logoColor=white)
 ![C](https://img.shields.io/badge/-C-6C757D?style=flat-square&logo=c&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%23426F90.svg?style=flat-square&logo=docker&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
