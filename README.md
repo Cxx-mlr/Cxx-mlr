@@ -19,6 +19,8 @@
 ![Mitmdump](https://img.shields.io/badge/-Mitmdump-2F4F4F?style=flat-square)
 ![Celery](https://img.shields.io/badge/-Celery-4682B4?style=flat-square)
 ![Kali](https://img.shields.io/badge/Kali-000000?style=flat-square&logo=kalilinux&logoColor=white)
+<!--![Pydantic](https://img.shields.io/badge/-Pydantic-%23e92063?style=flat-square)-->
+<!--![BeautifulSoup4](https://img.shields.io/badge/-BeautifulSoup4-%23e92063?style=flat-square)-->
 
 ###### 📄 Data Formats
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -38,14 +40,14 @@
 ###### 📝 TODO
 
 ![Nginx](https://img.shields.io/badge/Nginx-%23009639.svg?style=flat-square&logo=nginx&logoColor=white)
+<!--![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=flat-square&logo=redis&logoColor=white)-->
+
 <!--![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/Rabbitmq-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)-->
 
 <!---![C++/JNI](https://img.shields.io/badge/C%2B%2B-JNI-orange?style=flat-square)--->
 <!--![Frida-Core/Frida-Gumjs/Frida-Gum](https://img.shields.io/badge/%20-Frida--Core-%23EF6456?style=flat-square)-->
-<!--![Pydantic](https://img.shields.io/badge/-Pydantic-%23e92063?style=flat-square)-->
-<!--![JWT](https://img.shields.io/badge/JWT-black?style=flat-square&logo=JSON%20web%20tokens)>
-<!--![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=flat-square&logo=redis&logoColor=white)-->
+<!--![JWT](https://img.shields.io/badge/JWT-black?style=flat-square&logo=JSON%20web%20tokens)>-->
 
 <p align='center'>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Cxx-mlr&bg_color=071A2C&icon_color=4194FD&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&line_height=27&text_color=FFFFFF" alt="Cxx-mlr's github stats"/>
