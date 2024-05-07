@@ -16,8 +16,8 @@
 ![Alembic](https://img.shields.io/badge/-Alembic-6495ED?style=flat-square)
 ![Mitmproxy](https://img.shields.io/badge/-Mitmproxy-2F4F4F?style=flat-square)
 ![Mitmdump](https://img.shields.io/badge/-Mitmdump-2F4F4F?style=flat-square)
-![Kali](https://img.shields.io/badge/Kali-000000?style=flat-square&logo=kalilinux&logoColor=white)
 ![BeautifulSoup4](https://img.shields.io/badge/BeautifulSoup4-%23262626.svg?style=flat-square&logo=beautifulsoup&logoColor=white)
+![Kali](https://img.shields.io/badge/Kali-000000?style=flat-square&logo=kalilinux&logoColor=white)
 <!--![Pydantic](https://img.shields.io/badge/-Pydantic-%23e92063?style=flat-square)-->
 <!--![BeautifulSoup4](https://img.shields.io/badge/-BeautifulSoup4-%23e92063?style=flat-square)-->
 
