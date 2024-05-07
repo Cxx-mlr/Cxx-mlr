@@ -2,13 +2,12 @@
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![C](https://img.shields.io/badge/-C-6C757D?style=flat-square&logo=c&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%23426F90.svg?style=flat-square&logo=docker&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/Typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
 
 ###### 🛢️ Backend
+![Docker](https://img.shields.io/badge/Docker-%23426F90.svg?style=flat-square&logo=docker&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-C16A91?style=flat-square&logo=graphql&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi)
 ![Psycopg](https://img.shields.io/badge/-Psycopg-%23216464?style=flat-square)
@@ -48,6 +47,7 @@
 <!---![C++/JNI](https://img.shields.io/badge/C%2B%2B-JNI-orange?style=flat-square)--->
 <!--![Frida-Core/Frida-Gumjs/Frida-Gum](https://img.shields.io/badge/%20-Frida--Core-%23EF6456?style=flat-square)-->
 <!--![JWT](https://img.shields.io/badge/JWT-black?style=flat-square&logo=JSON%20web%20tokens)>-->
+<!--![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)-->
 
 <p align='center'>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Cxx-mlr&bg_color=071A2C&icon_color=4194FD&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&line_height=27&text_color=FFFFFF" alt="Cxx-mlr's github stats"/>
