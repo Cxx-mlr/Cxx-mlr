@@ -8,7 +8,6 @@
 
 ###### 🛢️ Backend
 ![Docker](https://img.shields.io/badge/Docker-%23426F90.svg?style=flat-square&logo=docker&logoColor=white)
-![GraphQL](https://img.shields.io/badge/-GraphQL-C16A91?style=flat-square&logo=graphql&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi)
 ![Psycopg](https://img.shields.io/badge/-Psycopg-%23216464?style=flat-square)
 ![Postgres](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)
@@ -23,6 +22,7 @@
 
 ###### 📄 Data Formats
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![GraphQL](https://img.shields.io/badge/-GraphQL-C16A91?style=flat-square&logo=graphql&logoColor=white)
 ![JSON](https://img.shields.io/badge/-JSON-000000?style=flat-square)
 ![YAML](https://img.shields.io/badge/-YAML-FFD700?style=flat-square)
 ![TOML](https://img.shields.io/badge/-TOML-454545?style=flat-square)
