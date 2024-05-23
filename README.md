@@ -17,6 +17,8 @@
 ![Mitmdump](https://img.shields.io/badge/-Mitmdump-2F4F4F?style=flat-square)
 ![BeautifulSoup4](https://img.shields.io/badge/BeautifulSoup4-%23262626.svg?style=flat-square&logo=beautifulsoup&logoColor=white)
 ![ParrotOS](https://img.shields.io/badge/ParrotOS-000000?style=flat-square&logo=parrotsecurity&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?style=flat-square&logo=redis&logoColor=white)
+![Celery](https://img.shields.io/badge/-Celery-4682B4?logo=celery&style=flat-square)
 <!--![Pydantic](https://img.shields.io/badge/-Pydantic-%23e92063?style=flat-square)-->
 <!--![BeautifulSoup4](https://img.shields.io/badge/-BeautifulSoup4-%23e92063?style=flat-square)-->
 
@@ -38,8 +40,6 @@
 
 ###### 📝 TODO
 
-![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?style=flat-square&logo=redis&logoColor=white)
-![Celery](https://img.shields.io/badge/-Celery-4682B4?logo=celery&style=flat-square)
 ![Nginx](https://img.shields.io/badge/Nginx-%23009639.svg?style=flat-square&logo=nginx&logoColor=white)
 ![Meson](https://img.shields.io/badge/Meson-%23232F3E.svg?style=flat-square&logo=meson&logoColor=white)
 
