@@ -22,6 +22,10 @@
 <!--![Pydantic](https://img.shields.io/badge/-Pydantic-%23e92063?style=flat-square)-->
 <!--![BeautifulSoup4](https://img.shields.io/badge/-BeautifulSoup4-%23e92063?style=flat-square)-->
 
+###### Frontend
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%231a202c.svg?style=flat-square&logo=tailwind-css&logoColor=white)
+![HTMX](https://img.shields.io/badge/HTMX-%23000000.svg?style=flat-square&logo=htmx&logoColor=white)
+
 ###### 📄 Data Formats
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-C16A91?style=flat-square&logo=graphql&logoColor=white)
