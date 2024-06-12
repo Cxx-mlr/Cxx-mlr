@@ -5,26 +5,32 @@
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/Typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
+<!--![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)-->
 
 ###### 🛢️ Backend
 ![Docker](https://img.shields.io/badge/Docker-%23426F90.svg?style=flat-square&logo=docker&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi)
 ![Psycopg](https://img.shields.io/badge/-Psycopg-%23216464?style=flat-square)
 ![Postgres](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?style=flat-square&logo=redis&logoColor=white)
+![Celery](https://img.shields.io/badge/-Celery-4682B4?logo=celery&style=flat-square)
 ![SqlAlchemy](https://img.shields.io/badge/%20SQL-Alchemy-E22C2C?style=flat-square&?labelColor=000000)
 ![Alembic](https://img.shields.io/badge/-Alembic-6495ED?style=flat-square)
 ![Mitmproxy](https://img.shields.io/badge/-Mitmproxy-2F4F4F?style=flat-square)
 ![Mitmdump](https://img.shields.io/badge/-Mitmdump-2F4F4F?style=flat-square)
 ![BeautifulSoup4](https://img.shields.io/badge/BeautifulSoup4-%23262626.svg?style=flat-square&logo=beautifulsoup&logoColor=white)
-![ParrotOS](https://img.shields.io/badge/ParrotOS-000000?style=flat-square&logo=parrotsecurity&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?style=flat-square&logo=redis&logoColor=white)
-![Celery](https://img.shields.io/badge/-Celery-4682B4?logo=celery&style=flat-square)
 <!--![Pydantic](https://img.shields.io/badge/-Pydantic-%23e92063?style=flat-square)-->
 <!--![BeautifulSoup4](https://img.shields.io/badge/-BeautifulSoup4-%23e92063?style=flat-square)-->
 
 ###### Frontend
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%231a202c.svg?style=flat-square&logo=tailwind-css&logoColor=white)
+![DaisyUI](https://img.shields.io/badge/DaisyUI-5A0EF8?style=flat-square&logo=daisyui&logoColor=white)
+
+> Currently undergoing training in React and Next.js
+<!--![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)-->
+<!--![Next JS](https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white)-->
 
 ###### 📄 Data Formats
 ![GraphQL](https://img.shields.io/badge/-GraphQL-C16A91?style=flat-square&logo=graphql&logoColor=white)
@@ -40,6 +46,11 @@
 ![Pandas](https://img.shields.io/badge/-Pandas-%23150458?style=flat-square&logo=pandas&logoColor=white)
 ![SymPy](https://img.shields.io/badge/-SymPy-%230D72B1?style=flat-square&logo=sympy&logoColor=white)
 ![Plotly Express](https://img.shields.io/badge/-Plotly%20Express-%23C71585?style=flat-square&logo=plotly&logoColor=white)
+
+<!--###### 🖥️ Operating Systems-->
+<!--![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)-->
+<!--![ParrotOS](https://img.shields.io/badge/ParrotOS-000000?style=flat-square&logo=parrotsecurity&logoColor=white)-->
+
 
 ###### 📝 TODO
 
