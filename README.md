@@ -30,6 +30,8 @@
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
 ![Next JS](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white)
 
+> Currently undergoing training in AWS and Kubernetes
+
 ###### 📄 Data Formats
 ![GraphQL](https://img.shields.io/badge/-GraphQL-C16A91?style=flat-square&logo=graphql&logoColor=white)
 ![JSON](https://img.shields.io/badge/-JSON-000000?style=flat-square)
