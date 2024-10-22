@@ -27,9 +27,8 @@
 ![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%231a202c.svg?style=flat-square&logo=tailwind-css&logoColor=white)
 ![shadcn/ui](https://img.shields.io/badge/shadcn/ui-000000?style=flat-square&logo=shadcn/ui&logoColor=white)
-<!--![DaisyUI](https://img.shields.io/badge/DaisyUI-6C29F7?style=flat-square&logo=daisyui&logoColor=white)-->
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white)
+![Next JS](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white)
 
 ###### 📄 Data Formats
 ![GraphQL](https://img.shields.io/badge/-GraphQL-C16A91?style=flat-square&logo=graphql&logoColor=white)
