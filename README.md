@@ -59,8 +59,8 @@
 ![astral-sh/uv](https://img.shields.io/badge/-uv-%232F74C0?style=flat-square&logo=astral-sh&logoColor=white)-->
 
 
-###### 📝 TODO
-![Nginx](https://img.shields.io/badge/Nginx-%23009639.svg?style=flat-square&logo=nginx&logoColor=white)
+<!--###### 📝 TODO
+![Nginx](https://img.shields.io/badge/Nginx-%23009639.svg?style=flat-square&logo=nginx&logoColor=white)-->
 
 <!--![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/Rabbitmq-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)-->
