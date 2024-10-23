@@ -22,7 +22,7 @@
 <!--![Pydantic](https://img.shields.io/badge/-Pydantic-%23e92063?style=flat-square)-->
 <!--![BeautifulSoup4](https://img.shields.io/badge/-BeautifulSoup4-%23e92063?style=flat-square)-->
 
-###### Frontend
+###### 💻 Frontend
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%231a202c.svg?style=flat-square&logo=tailwind-css&logoColor=white)
