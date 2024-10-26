@@ -54,7 +54,9 @@
 
 <!--###### 🛠️ Build Systems
 ![Meson](https://img.shields.io/badge/Meson-%23232F3E.svg?style=flat-square&logo=meson&logoColor=white)
-![PDM](https://img.shields.io/badge/PDM-%23232F3E.svg?style=flat-square&logo=meson&logoColor=white)-->
+![PDM](https://img.shields.io/badge/PDM-%23232F3E.svg?style=flat-square&logo=meson&logoColor=white)
+![Poetry](https://img.shields.io/badge/PDM-%23232F3E.svg?style=flat-square&logo=meson&logoColor=white)
+-->
 
 <!--###### 📦 Package Managers
 ![astral-sh/uv](https://img.shields.io/badge/-uv-%232F74C0?style=flat-square&logo=astral-sh&logoColor=white)-->
