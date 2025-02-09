@@ -1,9 +1,9 @@
 ###### ⚡ Programming Languages
 
 ![Rust](https://img.shields.io/badge/-Rust-%23DE3C34?style=flat-square&logo=rust&logoColor=white)
-![C](https://img.shields.io/badge/-C-6C757D?style=flat-square&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![TypeScript](https://img.shields.io/badge/Typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
+![C](https://img.shields.io/badge/-C-%232C3E50?style=flat-square&logo=c&logoColor=white)
 <!--![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)-->
 <!--![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)-->
 <!--![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)-->
